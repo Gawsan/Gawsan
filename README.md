@@ -21,7 +21,7 @@
 <hr>
 
 
-<h5 align="center">
+<h5 >
 I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies with a specialization of Software Engineering, from SLIIT Srilanka. I am a software enthusiast, web developer,App developer and Backend developer. 
 </h5>
 
