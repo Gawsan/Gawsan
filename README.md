@@ -11,11 +11,21 @@
   
 </div>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/gawsan_r" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="gawsan_r" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/Gawsan-raveenthiran/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Gawsan" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/gawsan_r" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+</p>
 
-<!--
-**Gawsan/Gawsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<hr>
 
 
-- 🔭 I’m Student at SLIIT
+<h5 align="center">
+I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies with a specialization of Software Engineering, from SLIIT Srilanka. I am a software enthusiast, web developer,App developer and Backend developer. 
+</h5>
+
+
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Gawsan&count_private=true&theme=radical&show_icons=true" />
 
 
