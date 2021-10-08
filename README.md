@@ -25,6 +25,7 @@
 I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies with a specialization of Software Engineering, from SLIIT Srilanka. I am a software enthusiast, web developer,App developer and Backend developer. 
 </h5>
 
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 
 <p >
   <img src = "https://github-readme-stats.vercel.app/api?username=Gawsan&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
