@@ -28,10 +28,10 @@ I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies wi
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 
 <p >
-  <img src = "https://github-readme-stats.vercel.app/api?username=Gawsan&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
+  <img align="right" height="350" width="400" src = "https://github-readme-stats.vercel.app/api?username=Gawsan&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
 </p>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Gawsan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21 &theme=react&" />
+<img align="right" height="350" width="400" src="https://github-readme-stats.vercel.app/api?username=Gawsan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21 &theme=react&" />
   
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gawsan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react&" /></a>
 
