@@ -37,7 +37,7 @@ I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies wi
   - 📫 How to reach me **Gawsan.r@gmail.com**
 <br><br>
 <hr>
-⚡ Second Year Undergraduate at <a href="https://www.sliit.lk/">SLIIT</a>
+⚡ Second Year Undergraduate at <a href="https://www.sliit.lk/">SLIIT</a><br/>
 ⚡ Mobile application Developer <br/>
 ⚡ Backend Developer <br/>
 
