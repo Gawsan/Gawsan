@@ -6,7 +6,7 @@
 
 
 <div align="right">
-  
+
 ![](https://visitor-badge.glitch.me/badge?page_id=gawsan)
   
 </div>
@@ -15,27 +15,27 @@
 <p align="center">
 <a href="https://twitter.com/gawsan_r" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="gawsan_r" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/Gawsan-raveenthiran/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Gawsan" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/gawsan_r" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://instagram.com/gawsan_r" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_gawsan" height="50" width="50" /></a>
 </p>
 
 <hr>
-
-
 <h4 >
 I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies with a specialization of Software Engineering, from SLIIT Srilanka. I am a software enthusiast, web developer,App developer and Backend developer. 
 </h4>
 <hr>
 
-<p >
-  <img src = "https://github-readme-stats.vercel.app/api?username=Gawsan&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
-</p>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Gawsan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21 &theme=react&" />
+<p align="center">
+     
+<img  width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=gawsan&theme=algolia&show_icons=true" /> 
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=gawsan&theme=algolia&show_icons=true"/>
+         
+ </p>
+ 
+ <hr>
+ 
+  - 📫 How to reach me **gawsan.r@gmail.com**
   
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gawsan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react&" /></a>
-  <hr>
-  - 📫 How to reach me **Gawsan.r@gmail.com**
-<br><br>
 <hr>
 ⚡ Second Year Undergraduate at <a href="https://www.sliit.lk/">SLIIT</a><br/>
 ⚡ Mobile application Developer <br/>
