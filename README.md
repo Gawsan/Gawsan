@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -40,6 +41,8 @@ I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies wi
 ⚡ Second Year Undergraduate at <a href="https://www.sliit.lk/">SLIIT</a><br/>
 ⚡ Mobile application Developer <br/>
 ⚡ Backend Developer <br/>
+
+
 
 
 ### Skills : <br/>
