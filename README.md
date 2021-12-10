@@ -33,16 +33,17 @@ I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies wi
          
  </p>
  
+ 
+ <p align="center">
+<img  width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gawsan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" />
+         
+ <img width="47%" height="200px" src="https://activity-graph.herokuapp.com/graph?username=gawsan&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
+</p>
+ 
  <hr>
  
   - 📫 How to reach me **gawsan.r@gmail.com**
   
-<hr>
-⚡ Second Year Undergraduate at <a href="https://www.sliit.lk/">SLIIT</a><br/>
-⚡ Mobile application Developer <br/>
-⚡ Backend Developer <br/>
-
-
 
 
 ### Skills : <br/>
