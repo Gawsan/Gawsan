@@ -21,7 +21,7 @@
 
 <hr>
 <h4 >
-I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies with a specialization of Software Engineering, from SLIIT Srilanka. I am a software enthusiast, web developer,App developer and Backend developer. 
+I’m a final year undergraduate pursuing a Bachelors’s in Computer science studies with a specialization of Software Engineering, from SLIIT Srilanka. I am a software enthusiast, web developer,App developer and Backend developer. 
 </h4>
 <hr>
 
@@ -58,9 +58,9 @@ I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies wi
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 <!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) -->
 <!-- ![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
